@@ -1,6 +1,6 @@
 {
   "name": "gm01-quiz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "type": "module",
   "bin": "main.js",
@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "This is my CLI based quiz project",
   "dependencies": {
     "@inquirer/prompts": "^5.3.7",
     "chalk": "^5.3.0"
